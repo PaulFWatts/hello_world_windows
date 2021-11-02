@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\F#_6_vscode.fsproj": {}
+  },
+  "projects": {
+    "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\F#_6_vscode.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\F#_6_vscode.fsproj",
+        "projectName": "F#_6_vscode",
+        "projectPath": "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\F#_6_vscode.fsproj",
+        "packagesPath": "C:\\Users\\Paul Watts\\.nuget\\packages\\",
+        "outputPath": "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Paul Watts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.0-beta.*, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "osdqGrsvZgwUM6iOEmEJWrHHMHT135PvMXvtn4BomPAjHKWP2FZwoSpY++hkrxMC2Basns1tzzUh7pKc1UqygQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects_windows\\hello_world_windows\\F#_6_vscode\\F#_6_vscode.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul Watts\\.nuget\\packages\\fsharp.core\\6.0.0\\fsharp.core.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
