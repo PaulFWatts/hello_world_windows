@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ooh7F+s2bqbudlFVyUosD+kFClQ+KlkB3WwupDiCtPmN6iC5k9wu094u8+gJr2AE6ZpbhSxnvb/1Ea5TAtLe2g==",
+  "success": true,
+  "projectFilePath": "D:\\projects_windows\\hello_world_windows\\F#_6_rider\\hello_world_console\\hello_world_console.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul Watts\\.nuget\\packages\\fsharp.core\\6.0.0\\fsharp.core.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
